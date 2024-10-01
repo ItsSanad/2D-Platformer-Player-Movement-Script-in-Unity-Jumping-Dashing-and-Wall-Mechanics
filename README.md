@@ -32,3 +32,4 @@ This Unity script provides a well-rounded movement system for a 2D platformer. I
 ![Capture1](https://github.com/user-attachments/assets/da95e995-4d12-4de9-a4ac-b78ba31ed11b)
 ![Capture2](https://github.com/user-attachments/assets/088165d9-b2f1-46e7-a76a-53aba2fb0947)
 ![Capture3](https://github.com/user-attachments/assets/f139ded5-344b-4d91-8d31-d6b4c33b1a51)
+![Capture4](https://github.com/user-attachments/assets/8a40e1f2-7d05-4b60-be88-4017ead19baa)
