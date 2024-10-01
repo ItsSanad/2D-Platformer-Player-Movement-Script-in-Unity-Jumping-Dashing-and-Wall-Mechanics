@@ -1,4 +1,4 @@
-#2D Platformer Player Movement Script in Unity: Jumping, Dashing, and Wall Mechanics
+2D Platformer Player Movement Script in Unity: Jumping, Dashing, and Wall Mechanics
 
 In 2D platformer games, responsive and fluid character movement is essential to ensure an engaging player experience. The script provided controls various movement mechanics such as walking, running, jumping, dashing, and wall interactions like sliding and wall jumping. This comprehensive player controller is tailored for Unity's 2D environment using Rigidbody2D to manage physics-based actions. In this explanation, we will break down the different elements of the script and how they contribute to the overall player movement system.
 
