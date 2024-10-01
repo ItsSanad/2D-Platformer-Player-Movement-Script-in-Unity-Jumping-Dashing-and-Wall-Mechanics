@@ -28,3 +28,7 @@ Wall Jump Duration: A timer prevents the player from jumping immediately again a
 The use of Rigidbody2D and OverlapCircle ensures that movement is physics-based, allowing for accurate detection of ground and wall states. The Rigidbody2D component (rb) is central to applying forces for jumping, dashing, and movement, while OverlapCircle checks whether the player is touching the ground or a wall.
 
 This Unity script provides a well-rounded movement system for a 2D platformer. It integrates walking, running, jumping, dashing, and wall mechanics such as sliding and jumping to offer players fluid control over their character. By combining responsive inputs with smooth physics interactions, this player controller is a great foundation for any 2D platformer, enhancing the overall gameplay experience. Whether players are navigating tight spaces, leaping between platforms, or dashing through obstacles, this script delivers the flexibility and control they need.
+
+![Capture1](https://github.com/user-attachments/assets/da95e995-4d12-4de9-a4ac-b78ba31ed11b)
+![Capture2](https://github.com/user-attachments/assets/088165d9-b2f1-46e7-a76a-53aba2fb0947)
+![Capture3](https://github.com/user-attachments/assets/f139ded5-344b-4d91-8d31-d6b4c33b1a51)
